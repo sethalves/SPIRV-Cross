@@ -1,0 +1,5 @@
+spirv-cross (1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Seth Alves <seth.alves@gmail.com>  Tue, 14 May 2019 13:54:19 -0700
